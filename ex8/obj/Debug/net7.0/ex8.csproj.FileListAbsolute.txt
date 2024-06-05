@@ -1,0 +1,14 @@
+C:\Users\maria\OneDrive\Área de Trabalho\LISTA2\ex8\bin\Debug\net7.0\ex8.exe
+C:\Users\maria\OneDrive\Área de Trabalho\LISTA2\ex8\bin\Debug\net7.0\ex8.deps.json
+C:\Users\maria\OneDrive\Área de Trabalho\LISTA2\ex8\bin\Debug\net7.0\ex8.runtimeconfig.json
+C:\Users\maria\OneDrive\Área de Trabalho\LISTA2\ex8\bin\Debug\net7.0\ex8.dll
+C:\Users\maria\OneDrive\Área de Trabalho\LISTA2\ex8\bin\Debug\net7.0\ex8.pdb
+C:\Users\maria\OneDrive\Área de Trabalho\LISTA2\ex8\obj\Debug\net7.0\ex8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\OneDrive\Área de Trabalho\LISTA2\ex8\obj\Debug\net7.0\ex8.AssemblyInfoInputs.cache
+C:\Users\maria\OneDrive\Área de Trabalho\LISTA2\ex8\obj\Debug\net7.0\ex8.AssemblyInfo.cs
+C:\Users\maria\OneDrive\Área de Trabalho\LISTA2\ex8\obj\Debug\net7.0\ex8.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive\Área de Trabalho\LISTA2\ex8\obj\Debug\net7.0\ex8.dll
+C:\Users\maria\OneDrive\Área de Trabalho\LISTA2\ex8\obj\Debug\net7.0\refint\ex8.dll
+C:\Users\maria\OneDrive\Área de Trabalho\LISTA2\ex8\obj\Debug\net7.0\ex8.pdb
+C:\Users\maria\OneDrive\Área de Trabalho\LISTA2\ex8\obj\Debug\net7.0\ex8.genruntimeconfig.cache
+C:\Users\maria\OneDrive\Área de Trabalho\LISTA2\ex8\obj\Debug\net7.0\ref\ex8.dll
